@@ -14,5 +14,3 @@ void add(int a, int b)
 {
     printf("hello\n");
 }
-
-
