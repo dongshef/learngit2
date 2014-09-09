@@ -14,3 +14,8 @@ void add(int a, int b)
 {
     printf("hello\n");
 }
+
+int addptr(int *ptrA, int *ptrB)
+{
+   return *ptrA + *ptrB;
+}  
